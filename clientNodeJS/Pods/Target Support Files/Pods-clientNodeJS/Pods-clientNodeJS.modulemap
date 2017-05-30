@@ -1,0 +1,6 @@
+framework module Pods_clientNodeJS {
+  umbrella header "Pods-clientNodeJS-umbrella.h"
+
+  export *
+  module * { export * }
+}
